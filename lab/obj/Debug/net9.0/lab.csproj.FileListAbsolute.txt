@@ -1,0 +1,14 @@
+C:\Users\Ренат\RiderProjects\lab\lab\bin\Debug\net9.0\lab.exe
+C:\Users\Ренат\RiderProjects\lab\lab\bin\Debug\net9.0\lab.deps.json
+C:\Users\Ренат\RiderProjects\lab\lab\bin\Debug\net9.0\lab.runtimeconfig.json
+C:\Users\Ренат\RiderProjects\lab\lab\bin\Debug\net9.0\lab.dll
+C:\Users\Ренат\RiderProjects\lab\lab\bin\Debug\net9.0\lab.pdb
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.AssemblyInfoInputs.cache
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.AssemblyInfo.cs
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.csproj.CoreCompileInputs.cache
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.dll
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\refint\lab.dll
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.pdb
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\lab.genruntimeconfig.cache
+C:\Users\Ренат\RiderProjects\lab\lab\obj\Debug\net9.0\ref\lab.dll

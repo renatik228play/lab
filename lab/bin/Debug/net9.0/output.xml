@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sentences>
+    <Sentence>
+      <Tokens>
+        <Token xsi:type="Word">
+          <Value>Привет</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Punctuation">
+          <Value>, </Value>
+          <Type>Punctuation</Type>
+        </Token>
+        <Token xsi:type="Word">
+          <Value>как</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Word">
+          <Value>дела</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Punctuation">
+          <Value>?</Value>
+          <Type>Punctuation</Type>
+        </Token>
+      </Tokens>
+    </Sentence>
+    <Sentence>
+      <Tokens>
+        <Token xsi:type="Word">
+          <Value>Я</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Word">
+          <Value>учу</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Word">
+          <Value>C</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Punctuation">
+          <Value>#.</Value>
+          <Type>Punctuation</Type>
+        </Token>
+      </Tokens>
+    </Sentence>
+    <Sentence>
+      <Tokens>
+        <Token xsi:type="Word">
+          <Value>Это</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Word">
+          <Value>интересно</Value>
+          <Type>Word</Type>
+        </Token>
+        <Token xsi:type="Punctuation">
+          <Value>!</Value>
+          <Type>Punctuation</Type>
+        </Token>
+      </Tokens>
+    </Sentence>
+  </Sentences>
+</Text>
